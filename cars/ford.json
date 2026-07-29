@@ -1,0 +1,29 @@
+{
+  "brand": "Ford",
+  "models": [
+    {
+      "model": "Mustang",
+      "year": 1965,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/1965_Ford_Mustang_2D_Hardtop_Front.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Ford_Mustang_(first_generation)"
+    },
+    {
+      "model": "Mustang",
+      "year": 2019,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2019_Ford_Mustang_GT_5.0_facelift.jpg/1280px-2019_Ford_Mustang_GT_5.0_facelift.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Ford_Mustang_(sixth_generation)"
+    },
+    {
+      "model": "F-150",
+      "year": 2018,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/1280px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Ford_F-Series"
+    },
+    {
+      "model": "GT40",
+      "year": 1966,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/GT40_at_Goodwood.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Ford_GT40"
+    }
+  ]
+}

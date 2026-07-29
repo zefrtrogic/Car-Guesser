@@ -1,0 +1,17 @@
+{
+  "brand": "Lamborghini",
+  "models": [
+    {
+      "model": "Countach",
+      "year": 1985,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lamborghini_Countach_-_Flickr_-_exfordy_%282%29_%28cropped-2%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Lamborghini_Countach"
+    },
+    {
+      "model": "Miura",
+      "year": 1971,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/1971_Lamborghini_Miura_P400_SV.jpg/1280px-1971_Lamborghini_Miura_P400_SV.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Lamborghini_Miura"
+    }
+  ]
+}

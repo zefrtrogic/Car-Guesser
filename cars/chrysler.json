@@ -1,0 +1,11 @@
+{
+  "brand": "Chrysler",
+  "models": [
+    {
+      "model": "300",
+      "year": 2016,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/2016_Chrysler_300_Limited_AWD_front_4.22.19.jpg/1280px-2016_Chrysler_300_Limited_AWD_front_4.22.19.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Chrysler_300"
+    }
+  ]
+}

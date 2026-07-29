@@ -1,0 +1,17 @@
+{
+  "brand": "Honda",
+  "models": [
+    {
+      "model": "Civic",
+      "year": 2002,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2002_Honda_Civic_%28MY02%29_GLi_sedan_%282015-05-29%29_01.jpg/1280px-2002_Honda_Civic_%28MY02%29_GLi_sedan_%282015-05-29%29_01.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Honda_Civic_(seventh_generation)"
+    },
+    {
+      "model": "NSX",
+      "year": 1991,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Honda_NSX_red.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Honda_NSX_(first_generation)"
+    }
+  ]
+}

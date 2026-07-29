@@ -1,0 +1,11 @@
+{
+  "brand": "Hummer",
+  "models": [
+    {
+      "model": "H2",
+      "year": 2005,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Hummer_H2_%2852891415542%29_%28cropped%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Hummer_H2"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "brand": "Subaru",
+  "models": [
+    {
+      "model": "Impreza WRX STI",
+      "year": 2011,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/2011_Subaru_Impreza_WRX_STI_sedan_front_--_2011_DC.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Subaru_Impreza_WRX_STI"
+    }
+  ]
+}

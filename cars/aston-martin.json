@@ -1,0 +1,11 @@
+{
+  "brand": "Aston Martin",
+  "models": [
+    {
+      "model": "DB5",
+      "year": 1964,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Aston_Martin_DB5_%28Skyfall%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Aston_Martin_DB5"
+    }
+  ]
+}

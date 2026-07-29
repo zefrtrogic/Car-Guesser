@@ -1,0 +1,11 @@
+{
+  "brand": "Citroën",
+  "models": [
+    {
+      "model": "DS",
+      "year": 1955,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bornholm_Rundt_2012_%282012-07-08%29%2C_by_Klugschnacker_modified.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Citro%C3%ABn_DS"
+    }
+  ]
+}

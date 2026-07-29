@@ -1,0 +1,17 @@
+{
+  "brand": "Land Rover",
+  "models": [
+    {
+      "model": "Defender",
+      "year": 2015,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2015_Land_Rover_Defender_%28L316_MY15%29_90_3-door_wagon_%282015-10-24%29_01.jpg/1280px-2015_Land_Rover_Defender_%28L316_MY15%29_90_3-door_wagon_%282015-10-24%29_01.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Land_Rover_Defender"
+    },
+    {
+      "model": "Range Rover",
+      "year": 1973,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/1973_Land_Rover_Range_Rover_3.5.jpg/1280px-1973_Land_Rover_Range_Rover_3.5.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Range_Rover_Classic"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "brand": "Peugeot",
+  "models": [
+    {
+      "model": "205",
+      "year": 1988,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Peugeot_205_front_20080121.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Peugeot_205"
+    }
+  ]
+}

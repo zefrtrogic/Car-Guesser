@@ -1,0 +1,29 @@
+{
+  "brand": "Toyota",
+  "models": [
+    {
+      "model": "Corolla",
+      "year": 2019,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2018_Toyota_Corolla_%28MZEA12R%29_Ascent_Sport_hatchback_%282018-11-02%29_01.jpg/1280px-2018_Toyota_Corolla_%28MZEA12R%29_Ascent_Sport_hatchback_%282018-11-02%29_01.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Toyota_Corolla_(E210)"
+    },
+    {
+      "model": "Supra",
+      "year": 1993,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/1993_Toyota_Supra_MK4_Las_Vegas_Fall_2025.jpg/1280px-1993_Toyota_Supra_MK4_Las_Vegas_Fall_2025.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Toyota_Supra"
+    },
+    {
+      "model": "Land Cruiser",
+      "year": 1982,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/1982_Toyota_Land_Cruiser_FJ40_in_Freeborn_Red%2C_front_right.jpg/1280px-1982_Toyota_Land_Cruiser_FJ40_in_Freeborn_Red%2C_front_right.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser_(J40)"
+    },
+    {
+      "model": "Prius",
+      "year": 2022,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Toyota_Prius_2.0_HEV_Limited_%28V%29_%E2%80%93_f_18112022.jpg/1280px-Toyota_Prius_2.0_HEV_Limited_%28V%29_%E2%80%93_f_18112022.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Toyota_Prius"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "brand": "Volkswagen",
+  "models": [
+    {
+      "model": "Beetle",
+      "year": 1966,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/VW_K%C3%A4fer_Baujahr_1966.jpg/1280px-VW_K%C3%A4fer_Baujahr_1966.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Volkswagen_Beetle"
+    },
+    {
+      "model": "Golf",
+      "year": 1978,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Volkswagen_Golf_1-2_%28cropped%29.jpg/1280px-Volkswagen_Golf_1-2_%28cropped%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk1"
+    }
+  ]
+}

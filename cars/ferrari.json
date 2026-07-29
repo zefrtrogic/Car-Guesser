@@ -1,0 +1,17 @@
+{
+  "brand": "Ferrari",
+  "models": [
+    {
+      "model": "250 GTO",
+      "year": 1962,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/1962_Ferrari_250_GTO_SP25.jpg/1280px-1962_Ferrari_250_GTO_SP25.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Ferrari_250_GTO"
+    },
+    {
+      "model": "Testarossa",
+      "year": 1986,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ferrari_Testarossa_IMG_3043.jpg/1280px-Ferrari_Testarossa_IMG_3043.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Ferrari_Testarossa"
+    }
+  ]
+}

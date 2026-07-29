@@ -1,0 +1,17 @@
+{
+  "brand": "Audi",
+  "models": [
+    {
+      "model": "Quattro",
+      "year": 1985,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Audi_Quattro_green.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Audi_Quattro"
+    },
+    {
+      "model": "R8",
+      "year": 2018,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2018_Audi_R8_Coupe_V10_plus_Front.jpg/1280px-2018_Audi_R8_Coupe_V10_plus_Front.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Audi_R8"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Car Guesser — Daily Car Guessing Game</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght@100..900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>🚗 Car Guesser</h1>
+    <p class="subtitle">Guess today's car in 5 tries. Each wrong guess zooms the photo out.</p>
+    <button id="how-to-play-btn" class="icon-btn" aria-label="How to play" title="How to play">?</button>
+  </header>
+
+  <main>
+    <section class="photo-wrap">
+      <div class="photo-frame" id="photo-frame">
+        <img id="car-photo" src="" alt="Mystery car, zoomed in" />
+        <div class="photo-overlay" id="photo-loading">Loading today's car…</div>
+      </div>
+      <div class="guess-counter" id="guess-counter">Guess 1 of 5</div>
+    </section>
+
+    <section class="guess-panel">
+      <form id="guess-form" autocomplete="off">
+        <div class="field">
+          <label for="brand-input">Brand</label>
+          <input type="text" id="brand-input" placeholder="e.g. Toyota" list="brand-list" />
+          <datalist id="brand-list"></datalist>
+        </div>
+        <div class="field">
+          <label for="model-input">Model</label>
+          <input type="text" id="model-input" placeholder="e.g. Corolla" list="model-list" />
+          <datalist id="model-list"></datalist>
+        </div>
+        <div class="field field-year">
+          <label for="year-input">Year</label>
+          <input type="number" id="year-input" placeholder="e.g. 2020" min="1900" max="2100" />
+        </div>
+        <button type="submit" id="submit-guess">Guess</button>
+      </form>
+
+      <div class="guess-history" id="guess-history" aria-live="polite"></div>
+    </section>
+
+    <section class="result-panel hidden" id="result-panel">
+      <h2 id="result-title"></h2>
+      <p id="result-detail"></p>
+      <div class="result-photo-wrap">
+        <img id="result-photo" src="" alt="Revealed car" />
+      </div>
+      <div class="result-actions">
+        <button id="share-btn">📋 Copy Result</button>
+        <div class="countdown" id="countdown"></div>
+      </div>
+    </section>
+  </main>
+
+  <div class="modal-backdrop hidden" id="how-to-play-modal">
+    <div class="modal">
+      <button class="modal-close" id="close-modal" aria-label="Close">×</button>
+      <h2>How to Play</h2>
+      <ul>
+        <li>A new car is chosen every day for everyone.</li>
+        <li>You get <strong>5 guesses</strong> to identify the <strong>brand</strong>, <strong>model</strong>, and <strong>year</strong>.</li>
+        <li>The photo starts heavily zoomed in. Every wrong guess zooms it out a bit, giving you a better look.</li>
+        <li>Brand and model must match exactly (pick from the suggestions as you type).</li>
+        <li>For year, you'll get a hint: 🔼 too low, 🔽 too high, 🟡 within 3 years, 🟢 exact.</li>
+        <li>Guess correctly on brand, model, <em>and</em> year to win!</li>
+      </ul>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

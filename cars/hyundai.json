@@ -1,0 +1,11 @@
+{
+  "brand": "Hyundai",
+  "models": [
+    {
+      "model": "Sonata",
+      "year": 2024,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2024_Hyundai_Sonata_SEL%2C_front_right.jpg/1280px-2024_Hyundai_Sonata_SEL%2C_front_right.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Hyundai_Sonata"
+    }
+  ]
+}

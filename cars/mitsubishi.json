@@ -1,0 +1,11 @@
+{
+  "brand": "Mitsubishi",
+  "models": [
+    {
+      "model": "Lancer Evolution",
+      "year": 2017,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/2017-04-02_Mitsubishi_Lancer_Evolution_X_MR_SST_14_%282%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Mitsubishi_Lancer_Evolution"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "brand": "Porsche",
+  "models": [
+    {
+      "model": "356",
+      "year": 1963,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/2007-07-08_Porsche_356_C_%2801_kl_ret%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Porsche_356"
+    },
+    {
+      "model": "911",
+      "year": 1969,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Porsche_911E_ca_1969.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Porsche_911_(classic)"
+    }
+  ]
+}

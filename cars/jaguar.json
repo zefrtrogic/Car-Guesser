@@ -1,0 +1,11 @@
+{
+  "brand": "Jaguar",
+  "models": [
+    {
+      "model": "E-Type",
+      "year": 1961,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jaguar_E-Type_Series_1_3.8_Litre_1961.jpg/1280px-Jaguar_E-Type_Series_1_3.8_Litre_1961.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+    }
+  ]
+}

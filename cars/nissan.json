@@ -1,0 +1,17 @@
+{
+  "brand": "Nissan",
+  "models": [
+    {
+      "model": "Skyline GT-R",
+      "year": 1999,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Nissan_Skyline_GT-R_R34_V_Spec_II.jpg/1280px-Nissan_Skyline_GT-R_R34_V_Spec_II.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R"
+    },
+    {
+      "model": "300ZX",
+      "year": 1996,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/1996_Nissan_300ZX_2-seater_t-top%2C_front_left%2C_06-15-2025.jpg/1280px-1996_Nissan_300ZX_2-seater_t-top%2C_front_left%2C_06-15-2025.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Nissan_300ZX"
+    }
+  ]
+}

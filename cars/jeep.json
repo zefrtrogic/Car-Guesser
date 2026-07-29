@@ -1,0 +1,11 @@
+{
+  "brand": "Jeep",
+  "models": [
+    {
+      "model": "Wrangler",
+      "year": 2020,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Jeep_Wrangler_Unlimited_%28JL%29_PHEV_IMG_5808.jpg/1280px-Jeep_Wrangler_Unlimited_%28JL%29_PHEV_IMG_5808.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Jeep_Wrangler_(JL)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "brand": "Plymouth",
+  "models": [
+    {
+      "model": "Barracuda",
+      "year": 1970,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/1970_Plymouth_%27Cuda_%2828085938680%29.jpg/1280px-1970_Plymouth_%27Cuda_%2828085938680%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Plymouth_Barracuda"
+    }
+  ]
+}

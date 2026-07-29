@@ -1,0 +1,17 @@
+{
+  "brand": "Tesla",
+  "models": [
+    {
+      "model": "Model S",
+      "year": 2016,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tesla_Model_S_%28Facelift_ab_04-2016%29_%28cropped%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Tesla_Model_S"
+    },
+    {
+      "model": "Model 3",
+      "year": 2023,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tesla_Model_3_%282023%29_Autofr%C3%BChling_Ulm_IMG_9282.jpg/1280px-Tesla_Model_3_%282023%29_Autofr%C3%BChling_Ulm_IMG_9282.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Tesla_Model_3"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "brand": "Saab",
+  "models": [
+    {
+      "model": "900",
+      "year": 1993,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/1993_Saab_900_SE_Turbo_2.0_Front.jpg/1280px-1993_Saab_900_SE_Turbo_2.0_Front.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Saab_900"
+    }
+  ]
+}

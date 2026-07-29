@@ -1,0 +1,11 @@
+{
+  "brand": "Mini",
+  "models": [
+    {
+      "model": "Mini",
+      "year": 1959,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Morris_Mini-Minor_1959_%28621_AOK%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Mini"
+    }
+  ]
+}

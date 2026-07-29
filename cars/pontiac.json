@@ -1,0 +1,11 @@
+{
+  "brand": "Pontiac",
+  "models": [
+    {
+      "model": "Firebird",
+      "year": 1970,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TransAm1970.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Pontiac_Firebird"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "brand": "Chevrolet",
+  "models": [
+    {
+      "model": "Camaro",
+      "year": 1968,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Chevrolet_Camaro_RS_327_1968_%28cropped%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)"
+    },
+    {
+      "model": "Corvette",
+      "year": 1963,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/1963_Chevrolet_Corvette_Sting_Ray_Sport_Coupe%2C_front_left%2C_08-25-2024.jpg/1280px-1963_Chevrolet_Corvette_Sting_Ray_Sport_Coupe%2C_front_left%2C_08-25-2024.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C2)"
+    },
+    {
+      "model": "Corvette",
+      "year": 2021,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Chevrolet_Corvette_C8_IAA_2021_1X7A0156.jpg/1280px-Chevrolet_Corvette_C8_IAA_2021_1X7A0156.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C8)"
+    },
+    {
+      "model": "Bel Air",
+      "year": 1957,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/57_Chevy_BelAir.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Chevrolet_Bel_Air"
+    }
+  ]
+}

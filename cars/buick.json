@@ -1,0 +1,11 @@
+{
+  "brand": "Buick",
+  "models": [
+    {
+      "model": "Riviera",
+      "year": 1963,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/SEPT_16TH_BUICK_RIVIERA_HOLLYWOOD_PHOTO_PATRICE_RAUNET.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Buick_Riviera"
+    }
+  ]
+}

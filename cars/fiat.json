@@ -1,0 +1,11 @@
+{
+  "brand": "Fiat",
+  "models": [
+    {
+      "model": "500",
+      "year": 1970,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/1970_Fiat_500_L_--_2011_DC_1.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Fiat_500"
+    }
+  ]
+}

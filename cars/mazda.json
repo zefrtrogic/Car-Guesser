@@ -1,0 +1,17 @@
+{
+  "brand": "Mazda",
+  "models": [
+    {
+      "model": "MX-5 Miata",
+      "year": 1990,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Eunos.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Mazda_MX-5_(NA)"
+    },
+    {
+      "model": "RX-7",
+      "year": 1994,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg/1280px-1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Mazda_RX-7"
+    }
+  ]
+}

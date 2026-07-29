@@ -1,0 +1,17 @@
+{
+  "brand": "Mercedes-Benz",
+  "models": [
+    {
+      "model": "300 SL",
+      "year": 1955,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Fox_Classic_Car_Collection%2C_2008_%2802%29.JPG",
+      "sourcePage": "https://en.wikipedia.org/wiki/Mercedes-Benz_300_SL"
+    },
+    {
+      "model": "G-Class",
+      "year": 2015,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Mercedes-Benz_W463_G_350_BlueTEC_01.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class"
+    }
+  ]
+}

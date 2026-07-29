@@ -1,0 +1,11 @@
+{
+  "brand": "Volvo",
+  "models": [
+    {
+      "model": "240",
+      "year": 1990,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/1988-1991_Volvo_240_GL_station_wagon_%282011-06-15%29_01.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Volvo_200_Series"
+    }
+  ]
+}

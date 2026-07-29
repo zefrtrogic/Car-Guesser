@@ -1,0 +1,17 @@
+{
+  "brand": "BMW",
+  "models": [
+    {
+      "model": "M3",
+      "year": 1991,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/1991_BMW_M3_Evo_II_BS_O24.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/BMW_M3"
+    },
+    {
+      "model": "3 Series",
+      "year": 2019,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2019_BMW_318d_SE_Automatic_2.0_Front.jpg/1280px-2019_BMW_318d_SE_Automatic_2.0_Front.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/BMW_3_Series_(G20)"
+    }
+  ]
+}

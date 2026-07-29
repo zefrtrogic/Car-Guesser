@@ -1,0 +1,11 @@
+{
+  "brand": "Cadillac",
+  "models": [
+    {
+      "model": "Eldorado",
+      "year": 1967,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/67_Cadillac_Eldorado_%2814277560774%29_cropped.jpg/1280px-67_Cadillac_Eldorado_%2814277560774%29_cropped.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Cadillac_Eldorado"
+    }
+  ]
+}

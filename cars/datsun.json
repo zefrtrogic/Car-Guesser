@@ -1,0 +1,11 @@
+{
+  "brand": "Datsun",
+  "models": [
+    {
+      "model": "240Z",
+      "year": 1971,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/1970-1973_Nissan_Fairlady_Z.jpg/1280px-1970-1973_Nissan_Fairlady_Z.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Nissan_Fairlady_Z_(S30)"
+    }
+  ]
+}

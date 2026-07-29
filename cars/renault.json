@@ -1,0 +1,11 @@
+{
+  "brand": "Renault",
+  "models": [
+    {
+      "model": "5",
+      "year": 1990,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/1990_Renault_5_1.4_Auto_%289743019740%29.jpg/1280px-1990_Renault_5_1.4_Auto_%289743019740%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Renault_5"
+    }
+  ]
+}
