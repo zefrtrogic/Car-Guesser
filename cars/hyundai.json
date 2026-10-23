@@ -6,6 +6,30 @@
       "year": 2024,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2024_Hyundai_Sonata_SEL%2C_front_right.jpg/1280px-2024_Hyundai_Sonata_SEL%2C_front_right.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Hyundai_Sonata"
+    },
+    {
+      "model": "Elantra",
+      "year": 2023,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2023_Hyundai_Elantra_Limited_in_Silver%2C_front_left%2C_04-04-2026.jpg/1280px-2023_Hyundai_Elantra_Limited_in_Silver%2C_front_left%2C_04-04-2026.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Hyundai_Elantra"
+    },
+    {
+      "model": "Santa Fe",
+      "year": 2024,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2024_Hyundai_Santa_Fe_Luxury_AWD_in_Hampton_Grey%2C_front_left%2C_2024-06-30.jpg/1280px-2024_Hyundai_Santa_Fe_Luxury_AWD_in_Hampton_Grey%2C_front_left%2C_2024-06-30.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Hyundai_Santa_Fe"
+    },
+    {
+      "model": "Tucson",
+      "year": 2025,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hyundai_Tucson_1.6_T-GDI_PHEV_Prime_%28IV%29_%E2%80%93_f_05072025.jpg/1280px-Hyundai_Tucson_1.6_T-GDI_PHEV_Prime_%28IV%29_%E2%80%93_f_05072025.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Hyundai_Tucson"
+    },
+    {
+      "model": "Genesis Coupe",
+      "year": 2010,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2010_Hyundai_Genesis_Coupe_3_--_08-28-2009.jpg/1280px-2010_Hyundai_Genesis_Coupe_3_--_08-28-2009.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Hyundai_Genesis_Coupe"
     }
   ]
 }

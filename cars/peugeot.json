@@ -6,6 +6,30 @@
       "year": 1988,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Peugeot_205_front_20080121.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Peugeot_205"
+    },
+    {
+      "model": "504",
+      "year": 1978,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/1978_Peugeot_504_Ti_Automatic_2.0_Front.jpg/1280px-1978_Peugeot_504_Ti_Automatic_2.0_Front.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Peugeot_504"
+    },
+    {
+      "model": "405",
+      "year": 1992,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Peugeot_405_SRI_1992_%28cropped%29.jpg/1280px-Peugeot_405_SRI_1992_%28cropped%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Peugeot_405"
+    },
+    {
+      "model": "206",
+      "year": 2002,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/2002_Peugeot_206_LX_1.4_Front.jpg/1280px-2002_Peugeot_206_LX_1.4_Front.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Peugeot_206"
+    },
+    {
+      "model": "308",
+      "year": 2022,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2022_-_Peugeot_308_III_%28C%29_-_121.jpg/1280px-2022_-_Peugeot_308_III_%28C%29_-_121.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Peugeot_308"
     }
   ]
 }

@@ -6,6 +6,30 @@
       "year": 1959,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Morris_Mini-Minor_1959_%28621_AOK%29.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Mini"
+    },
+    {
+      "model": "Cooper",
+      "year": 2018,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mini_Hatch_%28J01%29_Ditzingen_Mobil_IMG_9772_%28cropped%29.jpg/1280px-Mini_Hatch_%28J01%29_Ditzingen_Mobil_IMG_9772_%28cropped%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Mini_Hatch"
+    },
+    {
+      "model": "Moke",
+      "year": 1975,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Moke02.png/1280px-Moke02.png",
+      "sourcePage": "https://en.wikipedia.org/wiki/Mini_Moke"
+    },
+    {
+      "model": "Paceman",
+      "year": 2015,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2015_Mini_Paceman_Cooper_D_Automatic_2.0_Front.jpg/1280px-2015_Mini_Paceman_Cooper_D_Automatic_2.0_Front.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Mini_Paceman"
+    },
+    {
+      "model": "Countryman",
+      "year": 2018,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2018_Mini_Countryman_Cooper_S_2.0_Front.jpg/1280px-2018_Mini_Countryman_Cooper_S_2.0_Front.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Mini_Countryman"
     }
   ]
 }

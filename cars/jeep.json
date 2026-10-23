@@ -6,6 +6,30 @@
       "year": 2020,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Jeep_Wrangler_Unlimited_%28JL%29_PHEV_IMG_5808.jpg/1280px-Jeep_Wrangler_Unlimited_%28JL%29_PHEV_IMG_5808.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Jeep_Wrangler_(JL)"
+    },
+    {
+      "model": "Grand Cherokee",
+      "year": 2022,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2022_Jeep_Grand_Cherokee_Summit_Reserve_4x4_in_Bright_White%2C_Front_Left%2C_01-16-2022.jpg/1280px-2022_Jeep_Grand_Cherokee_Summit_Reserve_4x4_in_Bright_White%2C_Front_Left%2C_01-16-2022.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Jeep_Grand_Cherokee"
+    },
+    {
+      "model": "Cherokee",
+      "year": 1995,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Jeep_Cherokee_2-door.jpg/1280px-Jeep_Cherokee_2-door.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Jeep_Cherokee_(XJ)"
+    },
+    {
+      "model": "Compass",
+      "year": 2019,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2019_Jeep_Compass_Limited_2.4L%2C_front_7.6.19.jpg/1280px-2019_Jeep_Compass_Limited_2.4L%2C_front_7.6.19.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Jeep_Compass"
+    },
+    {
+      "model": "Grand Wagoneer",
+      "year": 1990,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/1990_Jeep_Grand_Wagoneer_%2828459801253%29_%28cropped%29.jpg/1280px-1990_Jeep_Grand_Wagoneer_%2828459801253%29_%28cropped%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Jeep_Wagoneer"
     }
   ]
 }

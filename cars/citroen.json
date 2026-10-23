@@ -6,6 +6,30 @@
       "year": 1955,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bornholm_Rundt_2012_%282012-07-08%29%2C_by_Klugschnacker_modified.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Citro%C3%ABn_DS"
+    },
+    {
+      "model": "2CV",
+      "year": 1970,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Citroen_2CV_1X7A7979.jpg/1280px-Citroen_2CV_1X7A7979.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Citro%C3%ABn_2CV"
+    },
+    {
+      "model": "Traction Avant",
+      "year": 1950,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tractionfr02.jpg/1280px-Tractionfr02.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Traction_Avant"
+    },
+    {
+      "model": "CX",
+      "year": 1983,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Citroen_CX_Prestige_long_wheel_base_2347cc_March_1983.JPG/1280px-Citroen_CX_Prestige_long_wheel_base_2347cc_March_1983.JPG",
+      "sourcePage": "https://en.wikipedia.org/wiki/Citro%C3%ABn_CX"
+    },
+    {
+      "model": "SM",
+      "year": 1972,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Citroen_SM_%281972%29_-_15340846543.jpg/1280px-Citroen_SM_%281972%29_-_15340846543.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Citro%C3%ABn_SM"
     }
   ]
 }

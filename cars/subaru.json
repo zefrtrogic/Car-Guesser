@@ -6,6 +6,30 @@
       "year": 2011,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/2011_Subaru_Impreza_WRX_STI_sedan_front_--_2011_DC.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Subaru_Impreza_WRX_STI"
+    },
+    {
+      "model": "SVX",
+      "year": 1997,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Subaru_SVX_in_parkland_in_the_British_West_Midlands_first_registered_February_1997_3317cc.JPG/1280px-Subaru_SVX_in_parkland_in_the_British_West_Midlands_first_registered_February_1997_3317cc.JPG",
+      "sourcePage": "https://en.wikipedia.org/wiki/Subaru_SVX"
+    },
+    {
+      "model": "Legacy",
+      "year": 2020,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2020_Subaru_Legacy%2C_front_10.1.20.jpg/1280px-2020_Subaru_Legacy%2C_front_10.1.20.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Subaru_Legacy"
+    },
+    {
+      "model": "Forester",
+      "year": 2024,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Subaru_Forester_%28SL%29_e-BOXER_DSC_8811.jpg/1280px-Subaru_Forester_%28SL%29_e-BOXER_DSC_8811.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Subaru_Forester"
+    },
+    {
+      "model": "Outback",
+      "year": 2026,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/2026_Subaru_Outback_Wilderness%2C_front_left%2C_05-24-2026.jpg/1280px-2026_Subaru_Outback_Wilderness%2C_front_left%2C_05-24-2026.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Subaru_Outback"
     }
   ]
 }

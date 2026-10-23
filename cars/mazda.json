@@ -12,6 +12,24 @@
       "year": 1994,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg/1280px-1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Mazda_RX-7"
+    },
+    {
+      "model": "3",
+      "year": 2015,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mazda3_SKYACTIV-G.jpg/1280px-Mazda3_SKYACTIV-G.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Mazda3"
+    },
+    {
+      "model": "6",
+      "year": 2018,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2018_Mazda6_Sport_NAV%2B_Diesel_2.2_Front.jpg/1280px-2018_Mazda6_Sport_NAV%2B_Diesel_2.2_Front.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Mazda6"
+    },
+    {
+      "model": "CX-5",
+      "year": 2024,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg/1280px-2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Mazda_CX-5"
     }
   ]
 }

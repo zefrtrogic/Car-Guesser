@@ -12,6 +12,24 @@
       "year": 1973,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/1973_Land_Rover_Range_Rover_3.5.jpg/1280px-1973_Land_Rover_Range_Rover_3.5.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Range_Rover_Classic"
+    },
+    {
+      "model": "Discovery",
+      "year": 2018,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2018_Land_Rover_Discovery_Luxury_HSE_TD6_3.0_Front.jpg/1280px-2018_Land_Rover_Discovery_Luxury_HSE_TD6_3.0_Front.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Land_Rover_Discovery"
+    },
+    {
+      "model": "Freelander",
+      "year": 2013,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2013_Land_Rover_Freelander_Dynamic_SD4_Automatic_2.2_Front.jpg/1280px-2013_Land_Rover_Freelander_Dynamic_SD4_Automatic_2.2_Front.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Land_Rover_Freelander"
+    },
+    {
+      "model": "Range Rover Evoque",
+      "year": 2019,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2019_Land_Rover_Range_Rover_Evoque_R-Dynamic_2.0.jpg/1280px-2019_Land_Rover_Range_Rover_Evoque_R-Dynamic_2.0.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Range_Rover_Evoque"
     }
   ]
 }

@@ -6,6 +6,30 @@
       "year": 1969,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1969_Dodge_Charger_R-T%2C_front_right_%282022_Ellwood_City_Fall_Fest_%26_Car_Cruise%29.jpg/1280px-1969_Dodge_Charger_R-T%2C_front_right_%282022_Ellwood_City_Fall_Fest_%26_Car_Cruise%29.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Dodge_Charger_(1966)"
+    },
+    {
+      "model": "Challenger",
+      "year": 2015,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Dodge_Challenger_SRT8_%282015%29_Hirschaid-20220709-RM-120221_%28cropped%29.jpg/1280px-Dodge_Challenger_SRT8_%282015%29_Hirschaid-20220709-RM-120221_%28cropped%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Dodge_Challenger"
+    },
+    {
+      "model": "Viper",
+      "year": 2014,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/%22_14_Fiat-Chrysler_SRT_Viper_GTS_%28cropped%29.jpg/1280px-%22_14_Fiat-Chrysler_SRT_Viper_GTS_%28cropped%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Dodge_Viper"
+    },
+    {
+      "model": "Durango",
+      "year": 2021,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/2021_Dodge_Durango_GT_%28facelift%29%2C_front_6.21.22.jpg/1280px-2021_Dodge_Durango_GT_%28facelift%29%2C_front_6.21.22.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Dodge_Durango"
+    },
+    {
+      "model": "Dart",
+      "year": 1966,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/1966_Dodge_Dart_GT_%2835578852214%29_%28cropped%29.jpg/1280px-1966_Dodge_Dart_GT_%2835578852214%29_%28cropped%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Dodge_Dart"
     }
   ]
 }

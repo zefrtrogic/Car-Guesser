@@ -12,6 +12,24 @@
       "year": 2019,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2019_BMW_318d_SE_Automatic_2.0_Front.jpg/1280px-2019_BMW_318d_SE_Automatic_2.0_Front.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/BMW_3_Series_(G20)"
+    },
+    {
+      "model": "5 Series",
+      "year": 2024,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BMW_G60_520i_1X7A2443.jpg/1280px-BMW_G60_520i_1X7A2443.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/BMW_5_Series"
+    },
+    {
+      "model": "Z4",
+      "year": 2019,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/BMW_G29_Z4_M40i_%28Facelift%29_1X7A6946-with-less-seller-info.jpg/1280px-BMW_G29_Z4_M40i_%28Facelift%29_1X7A6946-with-less-seller-info.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/BMW_Z"
+    },
+    {
+      "model": "i8",
+      "year": 2016,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2016_BMW_i8.jpg/1280px-2016_BMW_i8.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/BMW_i8"
     }
   ]
 }

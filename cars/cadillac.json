@@ -6,6 +6,30 @@
       "year": 1967,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/67_Cadillac_Eldorado_%2814277560774%29_cropped.jpg/1280px-67_Cadillac_Eldorado_%2814277560774%29_cropped.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Cadillac_Eldorado"
+    },
+    {
+      "model": "DeVille",
+      "year": 2004,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2004_Cadillac_Deville_DHS_--_NHTSA.jpg/1280px-2004_Cadillac_Deville_DHS_--_NHTSA.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Cadillac_de_Ville_series"
+    },
+    {
+      "model": "Seville",
+      "year": 2000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/5th_Cadillac_Seville_.jpg/1280px-5th_Cadillac_Seville_.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Cadillac_Seville"
+    },
+    {
+      "model": "CTS",
+      "year": 2010,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/2nd_Cadillac_CTS_.jpg/1280px-2nd_Cadillac_CTS_.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Cadillac_CTS"
+    },
+    {
+      "model": "Escalade",
+      "year": 2026,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2026_Cadillac_Escalade_ESV.jpg/1280px-2026_Cadillac_Escalade_ESV.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Cadillac_Escalade"
     }
   ]
 }

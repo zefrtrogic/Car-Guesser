@@ -6,6 +6,30 @@
       "year": 1961,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jaguar_E-Type_Series_1_3.8_Litre_1961.jpg/1280px-Jaguar_E-Type_Series_1_3.8_Litre_1961.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Jaguar_E-Type"
+    },
+    {
+      "model": "XK120",
+      "year": 1950,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/1950_Jaguar_XK120_Open_Two-Seater_Classic-Gala_2025_DSC_0976.jpg/1280px-1950_Jaguar_XK120_Open_Two-Seater_Classic-Gala_2025_DSC_0976.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Jaguar_XK120"
+    },
+    {
+      "model": "XJS",
+      "year": 1989,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/1989_Jaguar_XJS_Convertible_in_Signal_Red%2C_front_left.jpg/1280px-1989_Jaguar_XJS_Convertible_in_Signal_Red%2C_front_left.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Jaguar_XJS"
+    },
+    {
+      "model": "XJ6",
+      "year": 1996,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/1996_Jaguar_XJ6_3.2_Front.jpg/1280px-1996_Jaguar_XJ6_3.2_Front.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Jaguar_XJ_(X300)"
+    },
+    {
+      "model": "F-Type",
+      "year": 2017,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/2017_Jaguar_F-Type_V6_R-Dynamic_Automatic_3.0_Front.jpg/1280px-2017_Jaguar_F-Type_V6_R-Dynamic_Automatic_3.0_Front.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Jaguar_F-Type"
     }
   ]
 }

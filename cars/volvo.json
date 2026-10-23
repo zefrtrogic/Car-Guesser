@@ -6,6 +6,30 @@
       "year": 1990,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/1988-1991_Volvo_240_GL_station_wagon_%282011-06-15%29_01.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Volvo_200_Series"
+    },
+    {
+      "model": "P1800",
+      "year": 1969,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/1969_P1800_S.jpg/1280px-1969_P1800_S.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Volvo_P1800"
+    },
+    {
+      "model": "140",
+      "year": 1970,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Volvo_145_green_vr_TCE.jpg/1280px-Volvo_145_green_vr_TCE.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Volvo_140_Series"
+    },
+    {
+      "model": "850",
+      "year": 1994,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Volvo-850.jpg/1280px-Volvo-850.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Volvo_850"
+    },
+    {
+      "model": "XC90",
+      "year": 2025,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Volvo_XC90_T8_AWD_Plug-in_Hybrid_Plus_%28II%2C_2._Facelift%29_%E2%80%93_f_03102025.jpg/1280px-Volvo_XC90_T8_AWD_Plug-in_Hybrid_Plus_%28II%2C_2._Facelift%29_%E2%80%93_f_03102025.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Volvo_XC90"
     }
   ]
 }

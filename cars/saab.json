@@ -6,6 +6,30 @@
       "year": 1993,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/1993_Saab_900_SE_Turbo_2.0_Front.jpg/1280px-1993_Saab_900_SE_Turbo_2.0_Front.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Saab_900"
+    },
+    {
+      "model": "96",
+      "year": 1972,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/1972_Saab_96_V4_1.5.jpg/1280px-1972_Saab_96_V4_1.5.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Saab_96"
+    },
+    {
+      "model": "Sonett",
+      "year": 1972,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Saab_Sonett_V4_IMGP0092_wp.jpg/1280px-Saab_Sonett_V4_IMGP0092_wp.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Saab_Sonett"
+    },
+    {
+      "model": "9-5",
+      "year": 2003,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Saab_9-5_3.0T_Griffin_2003_%2813522331175%29_%28cropped%29.jpg/1280px-Saab_9-5_3.0T_Griffin_2003_%2813522331175%29_%28cropped%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Saab_9-5"
+    },
+    {
+      "model": "9-3",
+      "year": 2008,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/08-09_Saab_9-3_sedan_.jpg/1280px-08-09_Saab_9-3_sedan_.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Saab_9-3"
     }
   ]
 }

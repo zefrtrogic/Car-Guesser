@@ -6,6 +6,30 @@
       "year": 2016,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/2016_Chrysler_300_Limited_AWD_front_4.22.19.jpg/1280px-2016_Chrysler_300_Limited_AWD_front_4.22.19.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Chrysler_300"
+    },
+    {
+      "model": "PT Cruiser",
+      "year": 2007,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2006-2009_Chrysler_PT_Cruiser.jpg/1280px-2006-2009_Chrysler_PT_Cruiser.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Chrysler_PT_Cruiser"
+    },
+    {
+      "model": "Town & Country",
+      "year": 2010,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2010_Chrysler_Town_%26_Country_Touring_Plus%2C_front_left%2C_09-30-2023.jpg/1280px-2010_Chrysler_Town_%26_Country_Touring_Plus%2C_front_left%2C_09-30-2023.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Chrysler_Town_%26_Country_(minivan)"
+    },
+    {
+      "model": "Sebring",
+      "year": 2007,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/2007-Chrysler-Sebring-Sedan.jpg/1280px-2007-Chrysler-Sebring-Sedan.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Chrysler_Sebring"
+    },
+    {
+      "model": "Crossfire",
+      "year": 2004,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/2004_Chrysler_Crossfire_3.2.jpg/1280px-2004_Chrysler_Crossfire_3.2.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Chrysler_Crossfire"
     }
   ]
 }

@@ -12,6 +12,24 @@
       "year": 2015,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Mercedes-Benz_W463_G_350_BlueTEC_01.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class"
+    },
+    {
+      "model": "SL-Class",
+      "year": 2022,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mercedes-AMG_SL_43_IMG_8050.jpg/1280px-Mercedes-AMG_SL_43_IMG_8050.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Mercedes-Benz_SL-Class"
+    },
+    {
+      "model": "E-Class",
+      "year": 2023,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mercedes-Benz_W214_1X7A1841.jpg/1280px-Mercedes-Benz_W214_1X7A1841.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Mercedes-Benz_E-Class"
+    },
+    {
+      "model": "S-Class",
+      "year": 2021,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mercedes-Benz_W223_IMG_6663.jpg/1280px-Mercedes-Benz_W223_IMG_6663.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Mercedes-Benz_S-Class"
     }
   ]
 }

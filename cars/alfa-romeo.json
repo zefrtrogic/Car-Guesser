@@ -6,6 +6,30 @@
       "year": 1965,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Alfa_Romeo_Giulia_Super_%28cropped%29.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulia"
+    },
+    {
+      "model": "Spider",
+      "year": 1980,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Alfa_Romeo_%283568179480%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Alfa_Romeo_Spider"
+    },
+    {
+      "model": "4C",
+      "year": 2014,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Festival_automobile_international_2014_-_Alfa_Romeo_4C_-_009.jpg/1280px-Festival_automobile_international_2014_-_Alfa_Romeo_4C_-_009.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Alfa_Romeo_4C"
+    },
+    {
+      "model": "Giulietta",
+      "year": 2011,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/2011_Alfa_Romeo_Giulietta_Veloce_JTDm-2_2.0_Front.jpg/1280px-2011_Alfa_Romeo_Giulietta_Veloce_JTDm-2_2.0_Front.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulietta_(2010)"
+    },
+    {
+      "model": "Stelvio",
+      "year": 2017,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Alfa_Romeo_Stelvio_Suv_Free_Car_Picture_-_Give_Credit_Via_Link.%28cropped%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Alfa_Romeo_Stelvio"
     }
   ]
 }

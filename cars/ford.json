@@ -24,6 +24,12 @@
       "year": 1966,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/GT40_at_Goodwood.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Ford_GT40"
+    },
+    {
+      "model": "Thunderbird",
+      "year": 1957,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/1957_Ford_Thunderbird_%2828911503716%29_%28cropped%29.jpg/1280px-1957_Ford_Thunderbird_%2828911503716%29_%28cropped%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Ford_Thunderbird"
     }
   ]
 }

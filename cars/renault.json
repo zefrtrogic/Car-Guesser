@@ -6,6 +6,30 @@
       "year": 1990,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/1990_Renault_5_1.4_Auto_%289743019740%29.jpg/1280px-1990_Renault_5_1.4_Auto_%289743019740%29.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Renault_5"
+    },
+    {
+      "model": "Alpine A110",
+      "year": 1970,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Renault_Alpine_A_110_%28Sp%29.JPG/1280px-Renault_Alpine_A_110_%28Sp%29.JPG",
+      "sourcePage": "https://en.wikipedia.org/wiki/Alpine_A110"
+    },
+    {
+      "model": "Twingo",
+      "year": 2015,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Renault_Twingo_Dynamique_%28III%29_%E2%80%93_Frontansicht%2C_24._Oktober_2015%2C_M%C3%BCnster.jpg/1280px-Renault_Twingo_Dynamique_%28III%29_%E2%80%93_Frontansicht%2C_24._Oktober_2015%2C_M%C3%BCnster.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Renault_Twingo"
+    },
+    {
+      "model": "Megane",
+      "year": 2017,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg/1280px-2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Renault_M%C3%A9gane"
+    },
+    {
+      "model": "Clio",
+      "year": 2025,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Renault_Clio_%28V%2C_Facelift%29_%E2%80%93_f_02092025.jpg/1280px-Renault_Clio_%28V%2C_Facelift%29_%E2%80%93_f_02092025.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Renault_Clio"
     }
   ]
 }

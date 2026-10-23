@@ -12,6 +12,24 @@
       "year": 2018,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2018_Audi_R8_Coupe_V10_plus_Front.jpg/1280px-2018_Audi_R8_Coupe_V10_plus_Front.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Audi_R8"
+    },
+    {
+      "model": "A4",
+      "year": 2020,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Audi_A4_B9_sedans_%28FL%29_1X7A2441.jpg/1280px-Audi_A4_B9_sedans_%28FL%29_1X7A2441.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Audi_A4"
+    },
+    {
+      "model": "TT",
+      "year": 2019,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/2019_Audi_TT_Sport_40_TFSi_S-A_2.0_Front.jpg/1280px-2019_Audi_TT_Sport_40_TFSi_S-A_2.0_Front.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Audi_TT"
+    },
+    {
+      "model": "A8",
+      "year": 2018,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2018_Audi_A8_50_TDi_Quattro_Automatic_3.0.jpg/1280px-2018_Audi_A8_50_TDi_Quattro_Automatic_3.0.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Audi_A8"
     }
   ]
 }

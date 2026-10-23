@@ -6,6 +6,30 @@
       "year": 1963,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/SEPT_16TH_BUICK_RIVIERA_HOLLYWOOD_PHOTO_PATRICE_RAUNET.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Buick_Riviera"
+    },
+    {
+      "model": "Skylark",
+      "year": 1972,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/1972_Buick_Skylark_Front.jpg/1280px-1972_Buick_Skylark_Front.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Buick_Skylark"
+    },
+    {
+      "model": "Century",
+      "year": 2000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Buick_Century_--_04-23-2012.JPG/1280px-Buick_Century_--_04-23-2012.JPG",
+      "sourcePage": "https://en.wikipedia.org/wiki/Buick_Century"
+    },
+    {
+      "model": "Roadmaster",
+      "year": 1994,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Buick_Roadmaster_--_04-22-2010.jpg/1280px-Buick_Roadmaster_--_04-22-2010.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Buick_Roadmaster"
+    },
+    {
+      "model": "Enclave",
+      "year": 2022,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/2022_Buick_Enclave_%27Essense%27_%28facelift%29%2C_front_6.1.22.jpg/1280px-2022_Buick_Enclave_%27Essense%27_%28facelift%29%2C_front_6.1.22.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Buick_Enclave"
     }
   ]
 }

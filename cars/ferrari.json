@@ -12,6 +12,24 @@
       "year": 1986,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ferrari_Testarossa_IMG_3043.jpg/1280px-Ferrari_Testarossa_IMG_3043.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Ferrari_Testarossa"
+    },
+    {
+      "model": "F40",
+      "year": 1989,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/F40_Ferrari_20090509.jpg/1280px-F40_Ferrari_20090509.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Ferrari_F40"
+    },
+    {
+      "model": "Enzo",
+      "year": 2003,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Orange_Enzo_Ferrari_%287191948164%29.jpg/1280px-Orange_Enzo_Ferrari_%287191948164%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Ferrari_Enzo"
+    },
+    {
+      "model": "458 Italia",
+      "year": 2012,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ferrari_458_Fort_Worth_June_2016_56_%28Ferrari%29_%28cropped-2%29.jpg/1280px-Ferrari_458_Fort_Worth_June_2016_56_%28Ferrari%29_%28cropped-2%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Ferrari_458"
     }
   ]
 }

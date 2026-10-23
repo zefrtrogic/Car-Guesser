@@ -6,6 +6,30 @@
       "year": 2022,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2022_Kia_Telluride_EX_%28facelift%29%2C_front_4.16.23.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Kia_Telluride"
+    },
+    {
+      "model": "Soul",
+      "year": 2023,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2023_Kia_Soul_GT-Line_%28facelift%29%2C_front_12.11.22.jpg/1280px-2023_Kia_Soul_GT-Line_%28facelift%29%2C_front_12.11.22.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Kia_Soul"
+    },
+    {
+      "model": "Stinger",
+      "year": 2021,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kia_Stinger_Facelift_IMG_4468.jpg/1280px-Kia_Stinger_Facelift_IMG_4468.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Kia_Stinger"
+    },
+    {
+      "model": "Sportage",
+      "year": 2025,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2025_Kia_Sportage_S_front_only.jpg/1280px-2025_Kia_Sportage_S_front_only.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Kia_Sportage"
+    },
+    {
+      "model": "K5",
+      "year": 2022,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2022_Kia_K5_GT-Line_in_Pacific_Blue%2C_Front_Left%2C_09-05-2022.jpg/1280px-2022_Kia_K5_GT-Line_in_Pacific_Blue%2C_Front_Left%2C_09-05-2022.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Kia_K5"
     }
   ]
 }

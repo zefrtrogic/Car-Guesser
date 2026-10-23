@@ -12,6 +12,24 @@
       "year": 1971,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/1971_Lamborghini_Miura_P400_SV.jpg/1280px-1971_Lamborghini_Miura_P400_SV.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Lamborghini_Miura"
+    },
+    {
+      "model": "Diablo",
+      "year": 1995,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/1995_Lamborghini_Diablo_SE_30.jpg/1280px-1995_Lamborghini_Diablo_SE_30.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Lamborghini_Diablo"
+    },
+    {
+      "model": "Gallardo",
+      "year": 2012,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lamborghini_Superleggera-20180708.jpg/1280px-Lamborghini_Superleggera-20180708.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Lamborghini_Gallardo"
+    },
+    {
+      "model": "Huracan",
+      "year": 2017,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/1280px-2017_Lamborghini_Huracan_LP610.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Lamborghini_Huracan"
     }
   ]
 }

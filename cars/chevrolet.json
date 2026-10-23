@@ -24,6 +24,12 @@
       "year": 1957,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/57_Chevy_BelAir.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Chevrolet_Bel_Air"
+    },
+    {
+      "model": "Impala",
+      "year": 1967,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chevrolet_Impala_%2814373209694%29_%28cropped%29.jpg/1280px-Chevrolet_Impala_%2814373209694%29_%28cropped%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Chevrolet_Impala"
     }
   ]
 }

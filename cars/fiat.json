@@ -6,6 +6,30 @@
       "year": 1970,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/1970_Fiat_500_L_--_2011_DC_1.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Fiat_500"
+    },
+    {
+      "model": "124 Spider",
+      "year": 1970,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fiat_124_Spider_turquoise.jpg/1280px-Fiat_124_Spider_turquoise.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Fiat_124_Sport_Spider"
+    },
+    {
+      "model": "Panda",
+      "year": 2018,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2018_Fiat_Panda_Easy_1.2.jpg/1280px-2018_Fiat_Panda_Easy_1.2.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Fiat_Panda"
+    },
+    {
+      "model": "Punto",
+      "year": 2012,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fiat_Punto_2012_5door_front.JPG/1280px-Fiat_Punto_2012_5door_front.JPG",
+      "sourcePage": "https://en.wikipedia.org/wiki/Fiat_Punto"
+    },
+    {
+      "model": "850",
+      "year": 1968,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Fiat_850_at_Schaffen-Diest_%282017%29.jpg/1280px-Fiat_850_at_Schaffen-Diest_%282017%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Fiat_850"
     }
   ]
 }

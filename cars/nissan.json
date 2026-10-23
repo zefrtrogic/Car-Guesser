@@ -12,6 +12,24 @@
       "year": 1996,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/1996_Nissan_300ZX_2-seater_t-top%2C_front_left%2C_06-15-2025.jpg/1280px-1996_Nissan_300ZX_2-seater_t-top%2C_front_left%2C_06-15-2025.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Nissan_300ZX"
+    },
+    {
+      "model": "240SX",
+      "year": 1990,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/1990_240sx_Quarter_View.JPG/1280px-1990_240sx_Quarter_View.JPG",
+      "sourcePage": "https://en.wikipedia.org/wiki/Nissan_240SX"
+    },
+    {
+      "model": "Maxima",
+      "year": 2021,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/2021_Nissan_Maxima_SR_in_Pearl_White%2C_front_left.jpg/1280px-2021_Nissan_Maxima_SR_in_Pearl_White%2C_front_left.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Nissan_Maxima"
+    },
+    {
+      "model": "Pathfinder",
+      "year": 2023,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2023_Nissan_Pathfinder_Platinum_4WD_in_Baja_Storm_Metallic%2C_front_left.jpg/1280px-2023_Nissan_Pathfinder_Platinum_4WD_in_Baja_Storm_Metallic%2C_front_left.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Nissan_Pathfinder"
     }
   ]
 }

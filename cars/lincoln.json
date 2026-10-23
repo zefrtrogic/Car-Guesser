@@ -6,6 +6,30 @@
       "year": 1964,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/1964_Lincoln_Continental_Convertible_%2835311876713%29_%28cropped%29.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Lincoln_Continental"
+    },
+    {
+      "model": "Town Car",
+      "year": 2007,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2007_Lincoln_Town_Car_Signature_Limited%2C_front_right%2C_09-12-2026.jpg/1280px-2007_Lincoln_Town_Car_Signature_Limited%2C_front_right%2C_09-12-2026.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Lincoln_Town_Car"
+    },
+    {
+      "model": "Mark VIII",
+      "year": 1998,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/1998_Lincoln_Mark_VIII_LSC_in_red%2C_front_left.jpg/1280px-1998_Lincoln_Mark_VIII_LSC_in_red%2C_front_left.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Lincoln_Mark_VIII"
+    },
+    {
+      "model": "Navigator",
+      "year": 2019,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2019_Lincoln_Navigator_%27Reserve%27%2C_front_8.29.20.jpg/1280px-2019_Lincoln_Navigator_%27Reserve%27%2C_front_8.29.20.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Lincoln_Navigator"
+    },
+    {
+      "model": "MKZ",
+      "year": 2018,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/2018_Lincoln_MKZ%2C_front_2.7.20.jpg/1280px-2018_Lincoln_MKZ%2C_front_2.7.20.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Lincoln_MKZ"
     }
   ]
 }

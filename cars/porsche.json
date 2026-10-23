@@ -12,6 +12,24 @@
       "year": 1969,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Porsche_911E_ca_1969.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Porsche_911_(classic)"
+    },
+    {
+      "model": "944",
+      "year": 1986,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/1986_944_Turbo.jpg/1280px-1986_944_Turbo.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Porsche_944"
+    },
+    {
+      "model": "Boxster",
+      "year": 2020,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Porsche_718_Boxster_Spyder_IMG_2961.jpg/1280px-Porsche_718_Boxster_Spyder_IMG_2961.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Porsche_Boxster_and_Cayman"
+    },
+    {
+      "model": "Cayenne",
+      "year": 2025,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Porsche_Cayenne_%28III%2C_Facelift%29_%E2%80%93_f_01012025.jpg/1280px-Porsche_Cayenne_%28III%2C_Facelift%29_%E2%80%93_f_01012025.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Porsche_Cayenne"
     }
   ]
 }

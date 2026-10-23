@@ -12,6 +12,24 @@
       "year": 1978,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Volkswagen_Golf_1-2_%28cropped%29.jpg/1280px-Volkswagen_Golf_1-2_%28cropped%29.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Volkswagen_Golf_Mk1"
+    },
+    {
+      "model": "Type 2",
+      "year": 1960,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/0385_Porsche_Diesel_Bus_blau.jpg/1280px-0385_Porsche_Diesel_Bus_blau.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Volkswagen_Type_2"
+    },
+    {
+      "model": "Scirocco",
+      "year": 2015,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/2015_Volkswagen_Scirocco_GT_BlueMotion_Tech_2.0.jpg/1280px-2015_Volkswagen_Scirocco_GT_BlueMotion_Tech_2.0.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Volkswagen_Scirocco"
+    },
+    {
+      "model": "Jetta",
+      "year": 2025,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2025_Volkswagen_Jetta_SEL%2C_front_3.28.25.jpg/1280px-2025_Volkswagen_Jetta_SEL%2C_front_3.28.25.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Volkswagen_Jetta"
     }
   ]
 }

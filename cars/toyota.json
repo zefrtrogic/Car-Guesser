@@ -24,6 +24,12 @@
       "year": 2022,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Toyota_Prius_2.0_HEV_Limited_%28V%29_%E2%80%93_f_18112022.jpg/1280px-Toyota_Prius_2.0_HEV_Limited_%28V%29_%E2%80%93_f_18112022.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Toyota_Prius"
+    },
+    {
+      "model": "Celica",
+      "year": 1994,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/1994_Toyota_Celica_GT-4_2.0.jpg/1280px-1994_Toyota_Celica_GT-4_2.0.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Toyota_Celica"
     }
   ]
 }

@@ -6,6 +6,30 @@
       "year": 1971,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/1970-1973_Nissan_Fairlady_Z.jpg/1280px-1970-1973_Nissan_Fairlady_Z.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Nissan_Fairlady_Z_(S30)"
+    },
+    {
+      "model": "510",
+      "year": 1968,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/510BluebirdSSS.jpg/1280px-510BluebirdSSS.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Datsun_510"
+    },
+    {
+      "model": "Fairlady Roadster",
+      "year": 1966,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Datsun_Fairlady_1600.jpg/1280px-Datsun_Fairlady_1600.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Datsun_Sports"
+    },
+    {
+      "model": "Pickup",
+      "year": 1980,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/1980_Datsun_Pickup_%28cropped%29.jpg/1280px-1980_Datsun_Pickup_%28cropped%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Datsun_truck"
+    },
+    {
+      "model": "Cherry",
+      "year": 1970,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/1970_Nissan_Cherry_Sedan_X-1.jpg/1280px-1970_Nissan_Cherry_Sedan_X-1.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Nissan_Cherry"
     }
   ]
 }

@@ -12,6 +12,24 @@
       "year": 2023,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tesla_Model_3_%282023%29_Autofr%C3%BChling_Ulm_IMG_9282.jpg/1280px-Tesla_Model_3_%282023%29_Autofr%C3%BChling_Ulm_IMG_9282.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Tesla_Model_3"
+    },
+    {
+      "model": "Model X",
+      "year": 2017,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2017_Tesla_Model_X_100D_Front.jpg/1280px-2017_Tesla_Model_X_100D_Front.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Tesla_Model_X"
+    },
+    {
+      "model": "Model Y",
+      "year": 2026,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Tesla_Model_Y_Premium_%28Facelift%29_%E2%80%93_f_05052026.jpg/1280px-Tesla_Model_Y_Premium_%28Facelift%29_%E2%80%93_f_05052026.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Tesla_Model_Y"
+    },
+    {
+      "model": "Roadster",
+      "year": 2008,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Roadster_San_Diego.jpg/1280px-Roadster_San_Diego.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Tesla_Roadster_(first_generation)"
     }
   ]
 }

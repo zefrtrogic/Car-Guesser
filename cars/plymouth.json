@@ -6,6 +6,30 @@
       "year": 1970,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/1970_Plymouth_%27Cuda_%2828085938680%29.jpg/1280px-1970_Plymouth_%27Cuda_%2828085938680%29.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Plymouth_Barracuda"
+    },
+    {
+      "model": "Fury",
+      "year": 1959,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/1959_Plymouth_Sport_Fury_photo-14.JPG/1280px-1959_Plymouth_Sport_Fury_photo-14.JPG",
+      "sourcePage": "https://en.wikipedia.org/wiki/Plymouth_Fury"
+    },
+    {
+      "model": "Road Runner",
+      "year": 1969,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Plymouth_Road_Runner_1969_5312706.jpg/1280px-Plymouth_Road_Runner_1969_5312706.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Plymouth_Road_Runner"
+    },
+    {
+      "model": "Duster",
+      "year": 1970,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/1970_Plymouth_Valiant_Duster_340_%2827366262585%29_%28cropped%29.jpg/1280px-1970_Plymouth_Valiant_Duster_340_%2827366262585%29_%28cropped%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Plymouth_Duster"
+    },
+    {
+      "model": "Superbird",
+      "year": 1970,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Superbird_Yellow.jpg/1280px-Superbird_Yellow.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Plymouth_Superbird"
     }
   ]
 }

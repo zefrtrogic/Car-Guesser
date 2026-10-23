@@ -6,6 +6,30 @@
       "year": 1970,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TransAm1970.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Pontiac_Firebird"
+    },
+    {
+      "model": "GTO",
+      "year": 2005,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2005_Pontiac_GTO%2C_front_left%2C_10-28-2022.jpg/1280px-2005_Pontiac_GTO%2C_front_left%2C_10-28-2022.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Pontiac_GTO"
+    },
+    {
+      "model": "Fiero",
+      "year": 1988,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Fiero88.JPG/1280px-Fiero88.JPG",
+      "sourcePage": "https://en.wikipedia.org/wiki/Pontiac_Fiero"
+    },
+    {
+      "model": "Grand Prix",
+      "year": 2004,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Pontiac-Grand-Prix-GTP.jpg/1280px-Pontiac-Grand-Prix-GTP.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Pontiac_Grand_Prix"
+    },
+    {
+      "model": "Bonneville",
+      "year": 2000,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Pontiac_Bonneville_--_07-09-2009.jpg/1280px-Pontiac_Bonneville_--_07-09-2009.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Pontiac_Bonneville"
     }
   ]
 }

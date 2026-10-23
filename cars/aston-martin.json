@@ -6,6 +6,30 @@
       "year": 1964,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Aston_Martin_DB5_%28Skyfall%29.jpg",
       "sourcePage": "https://en.wikipedia.org/wiki/Aston_Martin_DB5"
+    },
+    {
+      "model": "Vantage",
+      "year": 1972,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/1972_Aston_Martin_Vantage_V8.jpg/1280px-1972_Aston_Martin_Vantage_V8.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Aston_Martin_Vantage"
+    },
+    {
+      "model": "DB9",
+      "year": 2006,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Aston_Martin_DB9_coupe_03_%28cropped%29.jpg/1280px-Aston_Martin_DB9_coupe_03_%28cropped%29.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Aston_Martin_DB9"
+    },
+    {
+      "model": "DBS",
+      "year": 1968,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1968_Aston_Martin_DBS_Vantage_LC25.jpg/1280px-1968_Aston_Martin_DBS_Vantage_LC25.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Aston_Martin_DBS"
+    },
+    {
+      "model": "Rapide",
+      "year": 2014,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/2014_AM_Rapide_S_front.jpg/1280px-2014_AM_Rapide_S_front.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/Aston_Martin_Rapide"
     }
   ]
 }
