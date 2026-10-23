@@ -3,58 +3,88 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Car Guesser — Daily Car Guessing Game</title>
+<title>Car Guesser — Daily Spotter Log</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght@100..900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders:wght@600;700;800&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+  <div class="grain" aria-hidden="true"></div>
+
   <header class="site-header">
-    <h1>🚗 Car Guesser</h1>
-    <p class="subtitle">Guess today's car in 5 tries. Each wrong guess zooms the photo out.</p>
-    <button id="how-to-play-btn" class="icon-btn" aria-label="How to play" title="How to play">?</button>
+    <div class="header-row">
+      <h1 class="wordmark">CAR GUESSER</h1>
+      <div class="header-actions">
+        <div class="case-no" id="case-no">CASE <span id="case-no-value">—</span></div>
+        <button id="how-to-play-btn" class="icon-btn" aria-label="How to play" title="How to play">?</button>
+      </div>
+    </div>
+    <p class="subtitle">Unidentified vehicle sighted. You have <strong>5 looks</strong> through the lens — each miss racks the zoom out.</p>
   </header>
 
   <main>
-    <section class="photo-wrap">
-      <div class="photo-frame" id="photo-frame">
-        <img id="car-photo" src="" alt="Mystery car, zoomed in" />
-        <div class="photo-overlay" id="photo-loading">Loading today's car…</div>
+    <section class="viewfinder-wrap">
+      <div class="viewfinder" id="photo-frame">
+        <img id="car-photo" src="" alt="Unidentified vehicle, zoomed" />
+        <div class="photo-overlay" id="photo-loading">Acquiring signal…</div>
+
+        <div class="vf-corner vf-tl" aria-hidden="true"></div>
+        <div class="vf-corner vf-tr" aria-hidden="true"></div>
+        <div class="vf-corner vf-bl" aria-hidden="true"></div>
+        <div class="vf-corner vf-br" aria-hidden="true"></div>
+        <div class="vf-reticle" id="vf-reticle" aria-hidden="true">
+          <span class="vf-tick vf-tick-h"></span>
+          <span class="vf-tick vf-tick-v"></span>
+        </div>
+
+        <div class="shutter-flash" id="shutter-flash" aria-hidden="true"></div>
+
+        <div class="exif-strip">
+          <span class="exif-item">LENS <strong id="exif-focal">400mm</strong></span>
+          <span class="exif-item exif-status" id="exif-status">STATUS: UNIDENTIFIED</span>
+        </div>
       </div>
-      <div class="guess-counter" id="guess-counter">Guess 1 of 5</div>
+      <div class="sighting-gauge">
+        <span class="sighting-label" id="guess-counter">SIGHTING 1 / 5</span>
+        <span class="sighting-dots" id="sighting-dots" aria-hidden="true"></span>
+      </div>
     </section>
 
     <section class="guess-panel">
       <form id="guess-form" autocomplete="off">
-        <div class="field">
-          <label for="brand-input">Brand</label>
-          <input type="text" id="brand-input" placeholder="e.g. Toyota" list="brand-list" />
-          <datalist id="brand-list"></datalist>
+        <div class="field" data-field="brand">
+          <label for="brand-input">Make</label>
+          <div class="combo">
+            <input type="text" id="brand-input" placeholder="Toyota" autocomplete="off" />
+            <ul class="combo-list" id="brand-combo-list" role="listbox" hidden></ul>
+          </div>
         </div>
-        <div class="field">
+        <div class="field" data-field="model">
           <label for="model-input">Model</label>
-          <input type="text" id="model-input" placeholder="e.g. Corolla" list="model-list" />
-          <datalist id="model-list"></datalist>
+          <div class="combo">
+            <input type="text" id="model-input" placeholder="Corolla" autocomplete="off" />
+            <ul class="combo-list" id="model-combo-list" role="listbox" hidden></ul>
+          </div>
         </div>
-        <div class="field field-year">
-          <label for="year-input">Year</label>
-          <input type="number" id="year-input" placeholder="e.g. 2020" min="1900" max="2100" />
+        <div class="field field-year" data-field="year">
+          <label for="year-input">MY <span class="label-hint">(model year)</span></label>
+          <input type="number" id="year-input" placeholder="2020" min="1900" max="2100" inputmode="numeric" />
         </div>
-        <button type="submit" id="submit-guess">Guess</button>
+        <button type="submit" id="submit-guess">Log Sighting</button>
       </form>
 
       <div class="guess-history" id="guess-history" aria-live="polite"></div>
     </section>
 
     <section class="result-panel hidden" id="result-panel">
-      <h2 id="result-title"></h2>
+      <div class="stamp" id="result-stamp"></div>
       <p id="result-detail"></p>
       <div class="result-photo-wrap">
         <img id="result-photo" src="" alt="Revealed car" />
       </div>
       <div class="result-actions">
-        <button id="share-btn">📋 Copy Result</button>
+        <button id="share-btn">Copy Field Report</button>
         <div class="countdown" id="countdown"></div>
       </div>
     </section>
@@ -63,14 +93,14 @@
   <div class="modal-backdrop hidden" id="how-to-play-modal">
     <div class="modal">
       <button class="modal-close" id="close-modal" aria-label="Close">×</button>
-      <h2>How to Play</h2>
+      <h2>How to spot it</h2>
       <ul>
-        <li>A new car is chosen every day for everyone.</li>
-        <li>You get <strong>5 guesses</strong> to identify the <strong>brand</strong>, <strong>model</strong>, and <strong>year</strong>.</li>
-        <li>The photo starts heavily zoomed in. Every wrong guess zooms it out a bit, giving you a better look.</li>
-        <li>Brand and model must match exactly (pick from the suggestions as you type).</li>
-        <li>For year, you'll get a hint: 🔼 too low, 🔽 too high, 🟡 within 3 years, 🟢 exact.</li>
-        <li>Guess correctly on brand, model, <em>and</em> year to win!</li>
+        <li>One unidentified car is sighted per day — same car for everyone.</li>
+        <li>You get <strong>5 sightings</strong> to log the <strong>make</strong>, <strong>model</strong>, and <strong>model year</strong>.</li>
+        <li>The lens starts racked way in. Every miss pulls focus back a stop, widening the shot.</li>
+        <li>Make and model must match exactly — type to pull up real matches, then lock one in.</li>
+        <li>Model year gets a read: ▲ too early, ▼ too late, an amber lock within 3 years, green on the nose.</li>
+        <li>Nail make, model, <em>and</em> year to close the case.</li>
       </ul>
     </div>
   </div>
